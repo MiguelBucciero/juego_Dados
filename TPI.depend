@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1730670322 source:c:\users\milagros\desktop\tpi\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1730688618 c:\users\milagros\desktop\tpi\menu.h
+
+1730694635 source:c:\users\milagros\desktop\tpi\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1730694635 c:\users\milagros\desktop\tpi\juego.h
+
+1730692560 source:c:\users\milagros\desktop\tpi\juego.cpp
+	<iostream>
+	"juego.h"
+
+1730664564 c:\users\milagros\desktop\tpi\simulacion.h
+
+1730693848 source:c:\users\milagros\desktop\tpi\simulacion.cpp
+	<iostream>
+	"juego.h"
+
+1730693848 source:c:\users\milagros\desktop\tpi\puntuacionmax.cpp
+	<iostream>
+
+1730750836 source:c:\users\carlo\onedrive\tup - utn\programación 1\tpi\tpi - modo 1 jugador listo\juego.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1730688618 c:\users\carlo\onedrive\tup - utn\programación 1\tpi\tpi - modo 1 jugador listo\menu.h
+
+1730746355 c:\users\carlo\onedrive\tup - utn\programación 1\tpi\tpi - modo 1 jugador listo\juego.h
+
+1730750952 source:c:\users\carlo\onedrive\tup - utn\programación 1\tpi\tpi - modo 1 jugador listo\puntuacionmax.cpp
+	<iostream>
+
+1730731435 source:c:\users\carlo\onedrive\tup - utn\programación 1\tpi\tpi - modo 1 jugador listo\simulacion.cpp
+	<iostream>
+	"juego.h"
+
+1730694886 source:c:\users\carlo\onedrive\tup - utn\programación 1\tpi\tpi - modo 1 jugador listo\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1730732341 source:c:\users\carlo\onedrive\tup - utn\programación 1\tpi\tpi - modo 1 jugador listo\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1730694886 source:c:\users\carlo\desktop\tpi - modo 1 jugador\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1730772812 c:\users\carlo\desktop\tpi - modo 1 jugador\menu.h
+
+1730764224 source:c:\users\carlo\desktop\tpi - modo 1 jugador\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1730773210 c:\users\carlo\desktop\tpi - modo 1 jugador\juego.h
+
+1730764325 source:c:\users\carlo\desktop\tpi - modo 1 jugador\simulacion.cpp
+	<iostream>
+	"juego.h"
+
+1730764224 source:c:\users\carlo\desktop\tpi - modo 1 jugador\puntuacionmax.cpp
+	<iostream>
+	"juego.h"
+
+1730772129 source:c:\users\carlo\desktop\tpi - modo 1 jugador\juego.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	<cstdlib>
+
+1730865988 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1730865089 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\menu.h
+
+1730898481 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\simulacion.cpp
+	<iostream>
+	"juego.h"
+
+1730905633 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\juego.h
+
+1730897798 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1730905637 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\juego.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1730898612 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1571584339 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730860234 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\dados.h
+
+1730898773 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\dosjugadores.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1730825363 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - modo 1 jugador-20241105t022928z-001\tpi - modo 1 jugador\dosjugadores.h
+
+1730898612 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\dados.cpp
+	<iostream>
+	"rlutil.h"
+	"dados.h"
+
+1571584339 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730860234 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\dados.h
+
+1730898773 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\dosjugadores.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1730865089 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\menu.h
+
+1730909822 c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\juego.h
+
+1730905637 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\juego.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1730865988 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+	"juego.h"
+	"dados.h"
+	"rlutil.h"
+
+1730897798 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1730898481 source:c:\users\slkf_\desktop\utn tup\materias 1 cuatrimestre\programacion 1 plan 2024\trabajo final\tpi - final ver miguel\simulacion.cpp
+	<iostream>
+	"juego.h"
+
